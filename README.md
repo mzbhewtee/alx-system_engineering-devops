@@ -1,1 +1,1 @@
-ALL is WELL
+All is well

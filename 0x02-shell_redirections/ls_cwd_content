@@ -1,0 +1,26 @@
+total 4
+drwxr-xr-x 1 mzbhewtee mzbhewtee 4096 Aug 23 07:30 .
+drwxr-xr-x 1 mzbhewtee mzbhewtee 4096 Aug 23 06:21 ..
+drwxr-xr-x 1 mzbhewtee mzbhewtee 4096 Aug 23 06:27 .git
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   32 Aug 23 06:23 0-hello_world
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 06:22 0-hello_world~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   28 Aug 23 06:35 1-confused_smiley
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   28 Aug 23 06:34 1-confused_smiley~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   28 Aug 23 06:50 2-hellofile
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 06:49 2-hellofile~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   39 Aug 23 06:53 3-twofiles
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 06:52 3-twofiles~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   29 Aug 23 06:56 4-lastlines
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 06:55 4-lastlines~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   29 Aug 23 06:59 5-firstlines
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 06:58 5-firstlines~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   36 Aug 23 07:04 6-third_line
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 07:03 6-third_line~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   74 Aug 23 07:21 7-file
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   69 Aug 23 07:20 7-file~
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   36 Aug 23 07:30 8-cwd_state
+-rwxr-xr-x 1 mzbhewtee mzbhewtee   36 Aug 23 07:28 8-cwd_state~
+-rw-r--r-- 1 mzbhewtee mzbhewtee   38 Aug 23 07:23 \*\'Best
+-rw-r--r-- 1 mzbhewtee mzbhewtee  238 Aug 23 07:03 iacta
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 07:01 iacta~
+-rw-r--r-- 1 mzbhewtee mzbhewtee    0 Aug 23 07:30 ls_cwd_content
